@@ -1,14 +1,13 @@
   {
-    "title": "Sample Extension",
-    "name": "sample-extension",
+    "title": "Matias Extension",
+    "name": "matias-extension",
     "version": "1.0.0",
-    "author": "auth0",
+    "author": "Matias Woloski <a href='mailto:matias@auth0.com'>adsdas</a>",
     "description": "This is a sample extension",
     "type": "application",
-    "repository": "https://github.com/auth0/sample-extension",
+    "repository": "https://github.com/woloski/sample-extension",
     "keywords": [
       "auth0",
       "extension"
-    ],
-    "codeUrl": "https://raw.githubusercontent.com/auth0/sample-extension/master/index.js"
+    ]
   }
