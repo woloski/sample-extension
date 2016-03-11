@@ -1,11 +1,11 @@
   {
     "title": "Matias Extension",
     "name": "matias-extension",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": "Matias Woloski <a href='mailto:matias@auth0.com'>adsdas</a>",
     "description": "This is a sample extension",
     "type": "application",
-    "repository": "https://github.com/woloski/sample-extension",
+    "repository": "javascript:alert('foo')",
     "keywords": [
       "auth0",
       "extension"
